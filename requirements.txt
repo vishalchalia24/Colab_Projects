@@ -1,0 +1,26 @@
+# Python Dependencies for Data Science & Analytics Projects
+
+# Data Manipulation
+pandas>=1.5.0
+numpy>=1.23.0
+
+# Data Visualization
+matplotlib>=3.6.0
+seaborn>=0.12.0
+plotly>=5.11.0
+
+# Machine Learning
+scikit-learn>=1.2.0
+imbalanced-learn>=0.10.0
+
+# Statistical Analysis
+scipy>=1.9.0
+statsmodels>=0.13.5
+
+# Jupyter
+jupyter>=1.0.0
+ipykernel>=6.19.0
+
+# Utilities
+tqdm>=4.64.0
+openpyxl>=3.0.10
